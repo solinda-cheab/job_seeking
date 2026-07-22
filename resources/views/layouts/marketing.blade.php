@@ -6,6 +6,7 @@
             'description' => trim($__env->yieldContent('page_description')) ?: null,
         ])
     </head>
+    
     <body class="marketing-body">
         @include('layouts.partials.public-nav')
 
