@@ -53,56 +53,6 @@ job-portal/
 ├── tests/
 └── vendor/
 ```
-
-## Installation
-
-### Clone the repository
-
-```bash
-git clone https://github.com/solinda-cheab/job-portal.git
-cd job-portal
-```
-
-### Install dependencies
-
-```bash
-composer install
-npm install
-```
-
-### Configure environment
-
-```bash
-cp .env.example .env
-```
-
-Update your database credentials in `.env`.
-
-### Generate application key
-
-```bash
-php artisan key:generate
-```
-
-### Run migrations
-
-```bash
-php artisan migrate
-```
-
-If your project includes seeders:
-
-```bash
-php artisan db:seed
-```
-
-### Start the development server
-
-```bash
-php artisan serve
-```
-
-
 ## Roles
 
 | Role | Description |
