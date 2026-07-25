@@ -63,7 +63,6 @@ job-portal/
 
 ## Future Improvements
 
-- Resume upload (PDF)
 - Email notifications
 - Advanced job filtering
 - Company verification
