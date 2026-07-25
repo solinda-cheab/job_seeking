@@ -71,10 +71,6 @@ job-portal/
 - Interview scheduling
 - Analytics dashboard
 
-## Contributors
-
-Solinda Cheab
-
 ## License
 
 This project is developed for educational purposes.
