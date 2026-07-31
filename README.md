@@ -28,7 +28,6 @@ A web-based Job Portal built with **Laravel** and **Blade** that connects job se
 - Monitor system activities
 
 ## Tech Stack
-
 - **Framework:** Laravel
 - **Template Engine:** Blade
 - **Database:** MySQL
