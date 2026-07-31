@@ -35,7 +35,6 @@ A web-based Job Portal built with **Laravel** and **Blade** that connects job se
 - **Authentication:** Laravel Authentication
 
 ## Project Structure
-
 ```
 job-portal/
 ├── app/
