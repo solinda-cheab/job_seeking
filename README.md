@@ -60,7 +60,6 @@ job-portal/
 | User | Searches for jobs and submits applications. |
 
 ## Future Improvements
-
 - Email notifications
 - Advanced job filtering
 - Company verification
