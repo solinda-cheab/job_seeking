@@ -67,6 +67,3 @@ job-portal/
 - Interview scheduling
 - Analytics dashboard
 
-## License
-
-This project is developed for educational purposes.
