@@ -66,4 +66,3 @@ job-portal/
 - Saved searches
 - Interview scheduling
 - Analytics dashboard
-
