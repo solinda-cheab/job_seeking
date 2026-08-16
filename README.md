@@ -1,6 +1,3 @@
-# Job Portal
-
-A web-based Job Portal built with **Laravel** and **Blade** that connects job seekers with employers through a simple and user-friendly platform. The system provides dedicated dashboards and features for three different roles: **Admin**, **Company**, and **User**.
 
 ## Features
 
